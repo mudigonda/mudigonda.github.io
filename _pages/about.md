@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-# Welcome to my webpage
 
 ## Bits, Brains, Blue Planet
 
