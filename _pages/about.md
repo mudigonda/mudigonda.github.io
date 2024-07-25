@@ -19,4 +19,4 @@ I spent my PhD  understanding sensorimotor representations in machines and in br
 
 I was a research scientist at [Berkeley National Lab](www.lbl.gov) for a while. I also used to be the Head of AI and Engineering at Terrafuse. Presently, I am a co-investigator at the [Sadhguru Center for a Conscious Planet](https://www.bidmc.org/research/research-by-department/anesthesia-critical-care-and-pain-medicine/research-centers/sadhguru-center). Most of my time is spent being the Founder and CEO of [Vayuh](https://vayuh.ai) - we build foundational climate models for extremes using Physics and AI.
 
-If you have some money to spare and want to contribute to tackling climate change, I recommend taking a look at [cauvery calling](https://www.ishaoutreach.org/en/cauvery-calling/campaigns/cauvery-calling-action-now-mayur-mudigonda)
+If you have some money to spare and want to contribute to tackling climate change, I recommend taking a look at [cauvery calling](https://www.ishaoutreach.org/en/cauvery-calling/)
